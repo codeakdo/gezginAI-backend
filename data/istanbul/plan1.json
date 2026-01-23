@@ -1,0 +1,58 @@
+{
+  "trip_title": "İstanbul Klasikleri: Tarih ve Lezzet",
+  "clothing_advice": "Hava durumuna göre katmanlı giyinmeniz önerilir. Yürüyüş için rahat ayakkabı şart.",
+  "places": [
+    {
+      "place_name": "Ayasofya-i Kebir Cami-i Şerifi",
+      "category": "Sightseeing",
+      "features": ["Tarihi", "Mimari", "İkonik"],
+      "rating": 4.9,
+      "location": {
+        "address": "Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul",
+        "coordinates": { "latitude": 41.0086, "longitude": 28.9802 }
+      },
+      "contact": { "phone": null, "email": null, "website": "https://muze.gov.tr" },
+      "hours": { "monday": "24 Saat Açık" },
+      "map_link": "https://goo.gl/maps/istanbul1"
+    },
+    {
+      "place_name": "Karaköy Güllüoğlu",
+      "category": "Food & Drink",
+      "features": ["Baklava", "Tarihi", "Meşhur"],
+      "rating": 4.6,
+      "location": {
+        "address": "Kemankeş Karamustafa Paşa, Rıhtım Cd. No:3, 34425 Beyoğlu/İstanbul",
+        "coordinates": { "latitude": 41.0234, "longitude": 28.9778 }
+      },
+      "contact": { "phone": "+90 212 249 96 80", "email": null, "website": "http://www.karakoygulluoglu.com" },
+      "hours": { "monday": "07:00 - 01:00" },
+      "map_link": "https://goo.gl/maps/istanbul2"
+    },
+    {
+      "place_name": "Galata Kulesi",
+      "category": "Sightseeing",
+      "features": ["Manzara", "Tarihi", "Fotoğraf"],
+      "rating": 4.7,
+      "location": {
+        "address": "Bereketzade, Galata Kulesi, 34421 Beyoğlu/İstanbul",
+        "coordinates": { "latitude": 41.0256, "longitude": 28.9741 }
+      },
+      "contact": { "phone": "+90 212 293 81 80", "email": null, "website": "https://muze.gov.tr" },
+      "hours": { "monday": "08:30 - 23:00" },
+      "map_link": "https://goo.gl/maps/istanbul3"
+    },
+    {
+      "place_name": "Sultanahmet Köftecisi Selim Usta",
+      "category": "Food & Drink",
+      "features": ["Meşhur Köfte", "Hızlı Servis", "Klasik"],
+      "rating": 4.4,
+      "location": {
+        "address": "Alemdar, Divan Yolu Cd. No:12, 34110 Fatih/İstanbul",
+        "coordinates": { "latitude": 41.0084, "longitude": 28.9780 }
+      },
+      "contact": { "phone": "+90 212 520 05 66", "email": null, "website": "http://www.sultanahmetkoftecisi.com.tr" },
+      "hours": { "monday": "10:30 - 23:00" },
+      "map_link": "https://goo.gl/maps/istanbul4"
+    }
+  ]
+}

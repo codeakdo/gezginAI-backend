@@ -1,0 +1,45 @@
+{
+            "trip_title": "Antep Kahvaltısı: Beyran ve Katmer",
+            "clothing_advice": "Aç gelin :)",
+            "places": [
+                {
+                    "place_name": "Metanet Lokantası",
+                    "category": "Food & Drink",
+                    "features": ["Beyran Çorbası", "Sabah Klasiği", "Acı"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Kozluca, Kozluca Cd. No:11, 27400 Şahinbey/Gaziantep",
+                        "coordinates": { "latitude": 37.0605, "longitude": 37.3805 }
+                    },
+                    "contact": { "phone": "+90 342 231 46 66", "email": null, "website": null },
+                    "hours": { "monday": "05:00 - 18:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan3_1"
+                },
+                {
+                    "place_name": "Katmerci Zekeriya Usta",
+                    "category": "Dessert",
+                    "features": ["Katmer", "Kahvaltı", "Meşhur"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Çukur, Körükçü Sk. B D:No: 39/C, 27400 Şahinbey/Gaziantep",
+                        "coordinates": { "latitude": 37.0610, "longitude": 37.3825 }
+                    },
+                    "contact": { "phone": "+90 342 230 09 71", "email": null, "website": null },
+                    "hours": { "monday": "06:00 - 14:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan3_2"
+                },
+                {
+                    "place_name": "Koçak Baklava",
+                    "category": "Dessert",
+                    "features": ["Baklava", "Kuru Baklava", "Hediye Paketi"],
+                    "rating": 4.9,
+                    "location": {
+                        "address": "Budak, Gazi Muhtar Paşa Blv. No:53, 27090 Şehitkamil/Gaziantep",
+                        "coordinates": { "latitude": 37.0670, "longitude": 37.3750 }
+                    },
+                    "contact": { "phone": "+90 342 321 05 19", "email": "info@kocakbaklava.com.tr", "website": "https://www.kocakbaklava.com.tr" },
+                    "hours": { "monday": "08:00 - 21:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan3_3"
+                }
+            ]
+        }

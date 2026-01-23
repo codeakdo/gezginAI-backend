@@ -1,0 +1,45 @@
+{
+            "trip_title": "Adıyaman Şehir Turu: Perre ve Müze",
+            "clothing_advice": "Rahat yürüyüş ayakkabıları tercih edin.",
+            "places": [
+                {
+                    "place_name": "Perre Antik Kenti",
+                    "category": "History",
+                    "features": ["Kaya Mezarları", "Nekropol", "Mozaik"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Örenli, 02040 Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7850, "longitude": 38.2900 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": "https://muze.gov.tr" },
+                    "hours": { "monday": "08:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/perre1"
+                },
+                {
+                    "place_name": "Adıyaman Müzesi",
+                    "category": "Museum",
+                    "features": ["Arkeoloji", "Paleolitik", "Şehir Tarihi"],
+                    "rating": 4.5,
+                    "location": {
+                        "address": "Yenipınar, Atatürk Blv., 02100 Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7600, "longitude": 38.2750 }
+                    },
+                    "contact": { "phone": "+90 416 216 29 29", "email": null, "website": "https://muze.gov.tr" },
+                    "hours": { "monday": "08:00 - 17:00" },
+                    "map_link": "https://goo.gl/maps/adiyamanmuze2"
+                },
+                {
+                    "place_name": "Tarihi Oturakçı Pazarı",
+                    "category": "Shopping",
+                    "features": ["El Sanatları", "Yöresel Ürünler", "Tarihi Çarşı"],
+                    "rating": 4.4,
+                    "location": {
+                        "address": "Kapcami, 02100 Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7620, "longitude": 38.2770 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/oturakci3"
+                }
+            ]
+        }

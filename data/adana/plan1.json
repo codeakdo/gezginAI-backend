@@ -1,0 +1,58 @@
+{
+  "trip_title": "Adana Güneşi: Kebap ve Tarih",
+  "clothing_advice": "Hava çok sıcak olabilir, ince ve açık renkli kıyafetler tercih edin.",
+  "places": [
+    {
+      "place_name": "Taş Köprü",
+      "category": "Sightseeing",
+      "features": ["Tarihi", "Roma Dönemi", "Manzara"],
+      "rating": 4.6,
+      "location": {
+        "address": "Sinanpaşa, 01220 Yüreğir/Adana",
+        "coordinates": { "latitude": 36.9861, "longitude": 35.3344 }
+      },
+      "contact": { "phone": null, "email": null, "website": null },
+      "hours": { "monday": "24 Saat Açık" },
+      "map_link": "https://goo.gl/maps/adana1"
+    },
+    {
+      "place_name": "Kebapçı Mesut",
+      "category": "Food & Drink",
+      "features": ["Orijinal Adana Kebap", "Tarihi", "Salaş"],
+      "rating": 4.4,
+      "location": {
+        "address": "Kocavezir, 32005. Sk. No:13, 01060 Seyhan/Adana",
+        "coordinates": { "latitude": 36.9812, "longitude": 35.3250 }
+      },
+      "contact": { "phone": "+90 322 365 01 27", "email": null, "website": "http://www.kebapcimesut.com" },
+      "hours": { "monday": "10:00 - 22:00" },
+      "map_link": "https://goo.gl/maps/adana2"
+    },
+    {
+      "place_name": "Kazım Büfe",
+      "category": "Food & Drink",
+      "features": ["Muzlu Süt", "Tost", "İkonik"],
+      "rating": 4.5,
+      "location": {
+        "address": "Cemalpaşa, Toros Cd. 36/B, 01120 Seyhan/Adana",
+        "coordinates": { "latitude": 37.0015, "longitude": 35.3289 }
+      },
+      "contact": { "phone": "+90 322 458 29 54", "email": null, "website": null },
+      "hours": { "monday": "06:00 - 02:00" },
+      "map_link": "https://goo.gl/maps/adana3"
+    },
+    {
+      "place_name": "Merkez Park",
+      "category": "Sightseeing",
+      "features": ["Nehir Kıyısı", "Yürüyüş", "Devasa Park"],
+      "rating": 4.7,
+      "location": {
+        "address": "Merkez Park, Seyhan",
+        "coordinates": { "latitude": 36.9912, "longitude": 35.3308 }
+      },
+      "contact": { "phone": null, "email": null, "website": "http://adana.bel.tr" },
+      "hours": { "monday": "24 Saat Açık" },
+      "map_link": "https://goo.gl/maps/adana4"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+            "trip_title": "Antep Çarşıları ve El Sanatları",
+            "clothing_advice": "Yürüyüş odaklı, kalabalık çarşılar için rahat giyim.",
+            "places": [
+                {
+                    "place_name": "Bakırcılar Çarşısı",
+                    "category": "Shopping",
+                    "features": ["El Sanatları", "Tarihi", "Hediyelik"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Boyacı, Eski Saray Cd., 27400 Şahinbey/Gaziantep",
+                        "coordinates": { "latitude": 37.0635, "longitude": 37.3820 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan2_1"
+                },
+                {
+                    "place_name": "Almacı Pazarı",
+                    "category": "Shopping",
+                    "features": ["Baharat", "Salça", "Kurutulmuş Gıda"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Karagöz, Gaziler Cd., 27240 Şahinbey/Gaziantep",
+                        "coordinates": { "latitude": 37.0620, "longitude": 37.3810 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan2_2"
+                },
+                {
+                    "place_name": "Zincirli Bedesten",
+                    "category": "Shopping",
+                    "features": ["Tarihi Yapı", "Hediyelik", "Gümüş"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Karagöz, 27400 Şahinbey/Gaziantep",
+                        "coordinates": { "latitude": 37.0625, "longitude": 37.3815 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 18:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan2_3"
+                }
+            ]
+        }

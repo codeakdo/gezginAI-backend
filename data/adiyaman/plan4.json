@@ -1,0 +1,45 @@
+{
+            "trip_title": "Adıyaman Lezzetleri: Çiğköfte ve Tava",
+            "clothing_advice": "Bol, rahat kıyafetler (Çok yiyeceğiz!)",
+            "places": [
+                {
+                    "place_name": "Meşhur Adıyaman Çiğköftecisi",
+                    "category": "Food & Drink",
+                    "features": ["Etsiz Çiğköfte", "Orijinal Lezzet", "Acı"],
+                    "rating": 4.9,
+                    "location": {
+                        "address": "Atatürk Bulvarı Üzeri, Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7630, "longitude": 38.2780 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "10:00 - 00:00" },
+                    "map_link": "https://goo.gl/maps/cigkofte1"
+                },
+                {
+                    "place_name": "Keleş Konağı",
+                    "category": "Culture & Food",
+                    "features": ["Sıra Gecesi", "Yöresel Yemek", "Tarihi Konak"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Ulucami, 02100 Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7610, "longitude": 38.2760 }
+                    },
+                    "contact": { "phone": "+90 416 216 10 10", "email": null, "website": null },
+                    "hours": { "monday": "09:00 - 23:00" },
+                    "map_link": "https://goo.gl/maps/keles2"
+                },
+                {
+                    "place_name": "Adıyaman Tava (Yerel Lokanta)",
+                    "category": "Food & Drink",
+                    "features": ["Adıyaman Tava", "Fırın Yemekleri", "Esnaf Lokantası"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Gölbaşı Cd., Adıyaman Merkez",
+                        "coordinates": { "latitude": 37.7640, "longitude": 38.2800 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "11:00 - 21:00" },
+                    "map_link": "https://goo.gl/maps/tava3"
+                }
+            ]
+        }

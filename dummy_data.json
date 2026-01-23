@@ -1,0 +1,50 @@
+{
+  "trip_title": "Adana Lezzet ve Doğa Turu (Demo Modu)",
+  "clothing_advice": "Hava sıcak, rahat ve ince kıyafetler giy.",
+  "places": [
+    {
+      "place_name": "Kazım Büfe",
+      "category": "Yemek",
+      "features": ["Meşhur Muzlu Süt", "Hızlı Servis", "İkonik"],
+      "rating": 4.5,
+      "location": {
+        "address": "Cemalpaşa, Toros Cd., 01120 Seyhan/Adana",
+        "coordinates": { "latitude": 37.0015, "longitude": 35.3289 }
+      },
+      "contact": {
+        "phone": "+90 322 458 29 54",
+        "email": null,
+        "website": null
+      },
+      "hours": {
+        "monday": "06:00-02:00",
+        "sunday": "06:00-02:00",
+        "tuesday": null,
+        "thursday": null,
+        "friday": null,
+        "wednesday": null
+        
+      },
+      "map_link": "https://goo.gl/maps/orneklink"
+    },
+    {
+      "place_name": "Merkez Park",
+      "category": "Park",
+      "features": ["Nehir Manzarası", "Yürüyüş Yolu", "Geniş Çim Alan"],
+      "rating": 4.7,
+      "location": {
+        "address": "Merkez Park, Seyhan",
+        "coordinates": { "latitude": 36.9912, "longitude": 35.3308 }
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": "http://adana.bel.tr"
+      },
+      "hours": {
+        "monday": "24 Saat Açık"
+      },
+      "map_link": "https://goo.gl/maps/orneklink2"
+    }
+  ]
+}

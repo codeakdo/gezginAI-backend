@@ -1,0 +1,32 @@
+{
+            "trip_title": "Antep Doğası ve Rumkale",
+            "clothing_advice": "Spor ayakkabı ve şapka.",
+            "places": [
+                {
+                    "place_name": "Rumkale",
+                    "category": "History & Nature",
+                    "features": ["Fırat Nehri", "Tekne Turu", "Tarihi Kale"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Kasaba, 27970 Yavuzeli/Gaziantep",
+                        "coordinates": { "latitude": 37.2710, "longitude": 37.8380 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/antep_plan4_1"
+                },
+                {
+                    "place_name": "Gaziantep Botanik Bahçesi",
+                    "category": "Nature",
+                    "features": ["Bitki Çeşitliliği", "Sakinlik", "Fotoğraf"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Gazi, Zübeyde Hanım Blv., 27060 Şehitkamil/Gaziantep",
+                        "coordinates": { "latitude": 37.0700, "longitude": 37.3650 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": "https://gaziantep.bel.tr" },
+                    "hours": { "monday": "09:00 - 18:00" },
+                    "map_link": "https://goo.gl/maps/antep_plan4_2"
+                }
+            ]
+        }

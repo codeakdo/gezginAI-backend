@@ -1,0 +1,45 @@
+{
+            "trip_title": "Anadolu Yakası: Kadıköy Ruhu",
+            "clothing_advice": "Rahat, spor kıyafetler. Bol yürüyüş var.",
+            "places": [
+                {
+                    "place_name": "Moda Sahili",
+                    "category": "Relax",
+                    "features": ["Çimler", "Gün Batımı", "Genç Nüfus"],
+                    "rating": 4.9,
+                    "location": {
+                        "address": "Caferağa, Moda Cd., 34710 Kadıköy/İstanbul",
+                        "coordinates": { "latitude": 40.9815, "longitude": 29.0255 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan4_1"
+                },
+                {
+                    "place_name": "Çiya Sofrası",
+                    "category": "Food & Drink",
+                    "features": ["Yöresel Yemekler", "Gurme", "Ünlü Şef"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Caferağa, Güneşli Bahçe Sk. No:43, 34710 Kadıköy/İstanbul",
+                        "coordinates": { "latitude": 40.9897, "longitude": 29.0270 }
+                    },
+                    "contact": { "phone": "+90 216 330 31 90", "email": "info@ciya.com.tr", "website": "http://www.ciya.com.tr" },
+                    "hours": { "monday": "11:00 - 22:00" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan4_2"
+                },
+                {
+                    "place_name": "Kız Kulesi",
+                    "category": "Sightseeing",
+                    "features": ["Romantik", "İkonik", "Tarihi"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Salacak, Üsküdar Salacak Mevkii, 34668 Üsküdar/İstanbul",
+                        "coordinates": { "latitude": 41.0211, "longitude": 29.0041 }
+                    },
+                    "contact": { "phone": "+90 216 342 47 47", "email": null, "website": "https://kizkulesi.com" },
+                    "hours": { "monday": "09:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan4_3"
+                }
+            ]
+        }

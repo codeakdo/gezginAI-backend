@@ -1,0 +1,45 @@
+{
+            "trip_title": "Modern İstanbul: Sanat ve Stil",
+            "clothing_advice": "Şık ve rahat kıyafetler tercih edilebilir.",
+            "places": [
+                {
+                    "place_name": "İstanbul Modern Sanat Müzesi",
+                    "category": "Museum",
+                    "features": ["Çağdaş Sanat", "Sergi", "Tasarım"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Kılıçali Paşa, Tophane İskele Cd. No:1/1, 34433 Beyoğlu/İstanbul",
+                        "coordinates": { "latitude": 41.0260, "longitude": 28.9830 }
+                    },
+                    "contact": { "phone": "+90 212 334 73 00", "email": "info@istanbulmodern.org", "website": "https://www.istanbulmodern.org" },
+                    "hours": { "monday": "Kapalı" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan3_1"
+                },
+                {
+                    "place_name": "Nişantaşı (Abdi İpekçi Caddesi)",
+                    "category": "Shopping",
+                    "features": ["Moda", "Lüks Mağazalar", "Kafe"],
+                    "rating": 4.5,
+                    "location": {
+                        "address": "Harbiye, Abdi İpekçi Cd., 34367 Şişli/İstanbul",
+                        "coordinates": { "latitude": 41.0487, "longitude": 28.9937 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "10:00 - 22:00" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan3_2"
+                },
+                {
+                    "place_name": "Zorlu PSM",
+                    "category": "Art & Performance",
+                    "features": ["Konser", "Tiyatro", "Modern Mimari"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Levazım, Koru Sk. No:2, 34340 Beşiktaş/İstanbul",
+                        "coordinates": { "latitude": 41.0660, "longitude": 29.0175 }
+                    },
+                    "contact": { "phone": "+90 212 912 37 76", "email": "info@zorlupsm.com", "website": "https://www.zorlupsm.com" },
+                    "hours": { "monday": "10:00 - 22:00" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan3_3"
+                }
+            ]
+        }

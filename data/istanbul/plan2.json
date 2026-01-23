@@ -1,0 +1,45 @@
+{
+            "trip_title": "İstanbul Mavisi: Boğaz ve Yalılar",
+            "clothing_advice": "Deniz kenarı rüzgarlı olabilir, yanınıza rüzgarlık almanız önerilir.",
+            "places": [
+                {
+                    "place_name": "Ortaköy Büyük Mecidiye Camii",
+                    "category": "Sightseeing",
+                    "features": ["Manzara", "Fotoğraf", "İkonik"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Mecidiye, Mecidiye Köprüsü Sk. No:1, 34347 Beşiktaş/İstanbul",
+                        "coordinates": { "latitude": 41.0471, "longitude": 29.0266 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan2_1"
+                },
+                {
+                    "place_name": "Bebek Parkı",
+                    "category": "Relax",
+                    "features": ["Yürüyüş", "Lüks Semt", "Deniz Havası"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Bebek, Cevdet Paşa Cd., 34342 Beşiktaş/İstanbul",
+                        "coordinates": { "latitude": 41.0763, "longitude": 29.0435 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan2_2"
+                },
+                {
+                    "place_name": "Rumeli Hisarı",
+                    "category": "History",
+                    "features": ["Tarih", "Kale", "Manzara"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Yahya Kemal Cd., 34470 Sarıyer/İstanbul",
+                        "coordinates": { "latitude": 41.0852, "longitude": 29.0573 }
+                    },
+                    "contact": { "phone": "+90 212 263 53 05", "email": null, "website": "https://muze.gov.tr" },
+                    "hours": { "monday": "09:00 - 17:00" },
+                    "map_link": "https://goo.gl/maps/istanbul_plan2_3"
+                }
+            ]
+        }

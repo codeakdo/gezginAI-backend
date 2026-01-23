@@ -1,0 +1,58 @@
+{
+  "trip_title": "Başkent Turu: Cumhuriyet ve Lezzet",
+  "clothing_advice": "Ankara ayazına dikkat! Akşamları serin olabilir, yanınıza ceket alın.",
+  "places": [
+    {
+      "place_name": "Anıtkabir",
+      "category": "Sightseeing",
+      "features": ["Tarihi", "Atatürk", "Anıt"],
+      "rating": 5.0,
+      "location": {
+        "address": "Yücetepe, Akdeniz Cd. No:31, 06570 Çankaya/Ankara",
+        "coordinates": { "latitude": 39.9255, "longitude": 32.8369 }
+      },
+      "contact": { "phone": "+90 312 231 79 75", "email": null, "website": "https://www.anitkabir.tsk.tr" },
+      "hours": { "monday": "09:00 - 17:00" },
+      "map_link": "https://goo.gl/maps/ankara1"
+    },
+    {
+      "place_name": "Aspava (Meşhur Gülçimen)",
+      "category": "Food & Drink",
+      "features": ["Döner", "İkramlar", "Meşhur SOS"],
+      "rating": 4.6,
+      "location": {
+        "address": "Emek, Bişkek Cd. No:55, 06510 Çankaya/Ankara",
+        "coordinates": { "latitude": 39.9170, "longitude": 32.8180 }
+      },
+      "contact": { "phone": "+90 312 212 20 20", "email": null, "website": null },
+      "hours": { "monday": "24 Saat Açık" },
+      "map_link": "https://goo.gl/maps/ankara2"
+    },
+    {
+      "place_name": "Anadolu Medeniyetleri Müzesi",
+      "category": "Museum",
+      "features": ["Arkeoloji", "Tarih", "Ödüllü Müze"],
+      "rating": 4.8,
+      "location": {
+        "address": "Kale, Gözcü Sk. No:2, 06240 Altındağ/Ankara",
+        "coordinates": { "latitude": 39.9382, "longitude": 32.8619 }
+      },
+      "contact": { "phone": "+90 312 324 31 60", "email": null, "website": "https://muze.gov.tr" },
+      "hours": { "monday": "08:30 - 19:00" },
+      "map_link": "https://goo.gl/maps/ankara3"
+    },
+    {
+      "place_name": "Atakule",
+      "category": "Sightseeing",
+      "features": ["Manzara", "AVM", "Sembol"],
+      "rating": 4.5,
+      "location": {
+        "address": "Çankaya, Çankaya Cd. No:1, 06690 Çankaya/Ankara",
+        "coordinates": { "latitude": 39.8870, "longitude": 32.8530 }
+      },
+      "contact": { "phone": null, "email": null, "website": "https://atakule.com.tr" },
+      "hours": { "monday": "10:00 - 22:00" },
+      "map_link": "https://goo.gl/maps/ankara4"
+    }
+  ]
+}

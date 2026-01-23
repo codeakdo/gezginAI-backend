@@ -1,0 +1,58 @@
+{
+  "trip_title": "Gaziantep: Gastronomi ve Mozaikler",
+  "clothing_advice": "Rahat yürüyüş ayakkabısı giyin. Müzeler için uygun kıyafet seçin.",
+  "places": [
+    {
+      "place_name": "Zeugma Mozaik Müzesi",
+      "category": "Museum",
+      "features": ["Çingene Kızı", "Dünyanın En Büyüğü", "Tarih"],
+      "rating": 4.9,
+      "location": {
+        "address": "Mithatpaşa, Hacı Sani Konukoğlu Blv., 27500 Şehitkamil/Gaziantep",
+        "coordinates": { "latitude": 37.0746, "longitude": 37.3855 }
+      },
+      "contact": { "phone": "+90 342 325 27 27", "email": null, "website": "https://muze.gov.tr" },
+      "hours": { "monday": "08:30 - 19:00" },
+      "map_link": "https://goo.gl/maps/antep1"
+    },
+    {
+      "place_name": "İmam Çağdaş",
+      "category": "Food & Drink",
+      "features": ["Baklava", "Ali Nazik", "Tarihi"],
+      "rating": 4.5,
+      "location": {
+        "address": "Şekeroğlu, Uzun Çarşı Cd. No:14, 27200 Şahinbey/Gaziantep",
+        "coordinates": { "latitude": 37.0594, "longitude": 37.3811 }
+      },
+      "contact": { "phone": "+90 342 220 70 80", "email": null, "website": "http://www.imamcagdas.com" },
+      "hours": { "monday": "08:00 - 22:00" },
+      "map_link": "https://goo.gl/maps/antep2"
+    },
+    {
+      "place_name": "Gaziantep Kalesi",
+      "category": "Sightseeing",
+      "features": ["Tarihi", "Manzara", "Kahramanlık Müzesi"],
+      "rating": 4.6,
+      "location": {
+        "address": "Seferpaşa, 27200 Şahinbey/Gaziantep",
+        "coordinates": { "latitude": 37.0661, "longitude": 37.3833 }
+      },
+      "contact": { "phone": null, "email": null, "website": null },
+      "hours": { "monday": "08:30 - 17:30" },
+      "map_link": "https://goo.gl/maps/antep3"
+    },
+    {
+      "place_name": "Tahmis Kahvesi",
+      "category": "Food & Drink",
+      "features": ["Menengiç Kahvesi", "Tarihi Atmosfer", "Canlı Müzik"],
+      "rating": 4.6,
+      "location": {
+        "address": "Suyabatmaz, Eski Buğday Pazarı Sk. No:8, 27400 Şahinbey/Gaziantep",
+        "coordinates": { "latitude": 37.0628, "longitude": 37.3800 }
+      },
+      "contact": { "phone": "+90 342 232 89 77", "email": null, "website": "http://www.tahmis.com.tr" },
+      "hours": { "monday": "08:00 - 00:00" },
+      "map_link": "https://goo.gl/maps/antep4"
+    }
+  ]
+}

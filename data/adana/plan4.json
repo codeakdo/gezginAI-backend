@@ -1,0 +1,32 @@
+{
+            "trip_title": "Adana Şehir Merkezi ve Tarih",
+            "clothing_advice": "Şehir içi yürüyüşe uygun.",
+            "places": [
+                {
+                    "place_name": "Büyük Saat Kulesi",
+                    "category": "History",
+                    "features": ["Tarihi", "Osmanlı", "Simge"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Ali Münif Yeğenağa Cd., 01010 Seyhan/Adana",
+                        "coordinates": { "latitude": 36.9875, "longitude": 35.3270 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/adana_plan4_1"
+                },
+                {
+                    "place_name": "Adana Sinema Müzesi",
+                    "category": "Museum",
+                    "features": ["Yeşilçam", "Kültür", "Sanat"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Kayalıbağ, Seyhan Cd., 01010 Seyhan/Adana",
+                        "coordinates": { "latitude": 36.9860, "longitude": 35.3300 }
+                    },
+                    "contact": { "phone": "+90 322 352 47 14", "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 17:00" },
+                    "map_link": "https://goo.gl/maps/adana_plan4_2"
+                }
+            ]
+        }

@@ -1,0 +1,32 @@
+{
+            "trip_title": "Ankara'da Sanat Rotası",
+            "clothing_advice": "Müze ve sergi alanlarına uygun smart-casual giyim.",
+            "places": [
+                {
+                    "place_name": "CerModern",
+                    "category": "Art & Culture",
+                    "features": ["Modern Sanat", "Sergi", "Endüstriyel Mimari"],
+                    "rating": 4.5,
+                    "location": {
+                        "address": "Anafartalar, Altınsoy Cd. No:3, 06101 Altındağ/Ankara",
+                        "coordinates": { "latitude": 39.9360, "longitude": 32.8440 }
+                    },
+                    "contact": { "phone": "+90 312 310 00 00", "email": "info@cermodern.org", "website": "https://www.cermodern.org" },
+                    "hours": { "monday": "Kapalı" },
+                    "map_link": "https://goo.gl/maps/ankara_plan3_1"
+                },
+                {
+                    "place_name": "Rahmi M. Koç Müzesi",
+                    "category": "Museum",
+                    "features": ["Endüstri Tarihi", "Koleksiyon", "Nostalji"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Kale, Depo Sk. No:1, 06250 Altındağ/Ankara",
+                        "coordinates": { "latitude": 39.9375, "longitude": 32.8635 }
+                    },
+                    "contact": { "phone": "+90 312 309 68 00", "email": null, "website": "http://www.rmk-museum.org.tr" },
+                    "hours": { "monday": "Kapalı" },
+                    "map_link": "https://goo.gl/maps/ankara_plan3_2"
+                }
+            ]
+        }

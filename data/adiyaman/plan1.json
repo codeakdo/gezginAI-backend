@@ -1,0 +1,140 @@
+{
+  "trip_title": "Adıyaman: Tarihi Sokaklarda Serin Bir Keşif",
+  "clothing_advice": "Hava çok sıcak olacağından, hafif, nefes alabilen kumaşlardan yapılmış kıyafetler (pamuk, keten), geniş kenarlı bir şapka, güneş gözlüğü ve yüksek faktörlü güneş kremi mutlaka yanınızda bulunmalıdır. Bol su içmeyi ve günün en sıcak saatlerinde (öğle 12:00-16:00) kapalı ve klimalı mekanları tercih etmeyi unutmayın. Açık hava aktivitelerini sabah erken veya akşam geç saatlere planlayın.",
+  "places": [
+    {
+      "place_name": "Adıyaman Kalesi ve Tarihi Adıyaman Evleri Çevresi",
+      "category": "Sightseeing",
+      "features": [
+        "Tarihi sokaklar",
+        "Osmanlı dönemi mimarisi",
+        "Kale kalıntıları",
+        "Şehir manzarası",
+        "Sabah erken saatlerde ziyaret için ideal"
+      ],
+      "rating": 4,
+      "location": {
+        "address": "Sümerevler, 02040 Adıyaman Merkez/Adıyaman (Kale çevresi)",
+        "coordinates": {
+          "latitude": 37.7656,
+          "longitude": 38.2709
+        }
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null
+      },
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "map_link": "https://maps.app.goo.gl/3Q8i3g1q2M4F4K9P8"
+    },
+    {
+      "place_name": "Adıyaman Müzesi",
+      "category": "Museum",
+      "features": [
+        "Arkeolojik eserler",
+        "Etnografik bölüm",
+        "Klimatize iç mekan",
+        "Sıcak havadan kaçış noktası"
+      ],
+      "rating": 4.4,
+      "location": {
+        "address": "Hocaömer Mah. Atatürk Bulvarı, No:190, 02040 Adıyaman Merkez/Adıyaman",
+        "coordinates": {
+          "latitude": 37.7648,
+          "longitude": 38.2755
+        }
+      },
+      "contact": {
+        "phone": "+90 416 216 11 02",
+        "email": null,
+        "website": "https://muze.gov.tr"
+      },
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "09:00-17:00",
+        "wednesday": "09:00-17:00",
+        "thursday": "09:00-17:00",
+        "friday": "09:00-17:00",
+        "saturday": "09:00-17:00",
+        "sunday": "09:00-17:00"
+      },
+      "map_link": "https://maps.app.goo.gl/JtG1z2vD1tW9M6eA6"
+    },
+    {
+      "place_name": "Adıyaman Doyuran Lokantası",
+      "category": "Restaurant",
+      "features": [
+        "Yerel Adıyaman lezzetleri",
+        "Geleneksel mutfak",
+        "Klimalı iç mekan",
+        "Öğle veya akşam yemeği için ideal"
+      ],
+      "rating": 4.3,
+      "location": {
+        "address": "Sümerevler, Atatürk Blv. No:290, 02040 Adıyaman Merkez/Adıyaman",
+        "coordinates": {
+          "latitude": 37.7661,
+          "longitude": 38.2801
+        }
+      },
+      "contact": {
+        "phone": "+90 416 213 18 10",
+        "email": null,
+        "website": null
+      },
+      "hours": {
+        "monday": "06:00-22:00",
+        "tuesday": "06:00-22:00",
+        "wednesday": "06:00-22:00",
+        "thursday": "06:00-22:00",
+        "friday": "06:00-22:00",
+        "saturday": "06:00-22:00",
+        "sunday": "06:00-22:00"
+      },
+      "map_link": "https://maps.app.goo.gl/wJ1qQYxXn52UuT4y7"
+    },
+    {
+      "place_name": "Cendere Köprüsü (Severan Bridge)",
+      "category": "Sightseeing",
+      "features": [
+        "Roma dönemi köprü",
+        "Tarihi yapı",
+        "Nemrut Dağı Milli Parkı güzergahında",
+        "Fotoğraf çekimi için eşsiz nokta",
+        "Gün batımına yakın saatlerde daha keyifli"
+      ],
+      "rating": 4.7,
+      "location": {
+        "address": "Kâhta, Cendere Köprüsü, 02400 Kâhta/Adıyaman",
+        "coordinates": {
+          "latitude": 37.8931,
+          "longitude": 38.4552
+        }
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null
+      },
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "map_link": "https://maps.app.goo.gl/9uK21o8L1fWfN1K48"
+    }
+  ]
+}

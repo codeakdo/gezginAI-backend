@@ -1,0 +1,45 @@
+{
+            "trip_title": "Güneşin Doğduğu Yer: Nemrut ve Kommagene",
+            "clothing_advice": "Nemrut zirvesi yazın bile çok soğuktur! Mutlaka kalın mont, bere ve eldiven alın.",
+            "places": [
+                {
+                    "place_name": "Nemrut Dağı Milli Parkı",
+                    "category": "Sightseeing",
+                    "features": ["UNESCO", "Gün Doğumu/Batımı", "Dev Heykeller"],
+                    "rating": 5.0,
+                    "location": {
+                        "address": "Kahta, Adıyaman (Zirve)",
+                        "coordinates": { "latitude": 37.9806, "longitude": 38.7408 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": "https://muze.gov.tr" },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/nemrut1"
+                },
+                {
+                    "place_name": "Cendere Köprüsü",
+                    "category": "History",
+                    "features": ["Roma Mimarisi", "Tarihi", "Kanyon"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Burmapınar, 02700 Kâhta/Adıyaman",
+                        "coordinates": { "latitude": 37.9300, "longitude": 38.6080 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null }, 
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/cendere2"
+                },
+                {
+                    "place_name": "Arsemia Ören Yeri",
+                    "category": "History",
+                    "features": ["Yazlık Başkent", "Tüneller", "Kitabeler"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Kocahisar, Kâhta/Adıyaman",
+                        "coordinates": { "latitude": 37.9450, "longitude": 38.6600 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": "https://muze.gov.tr" },
+                    "hours": { "monday": "08:00 - 19:00" },
+                    "map_link": "https://goo.gl/maps/arsemia3"
+                }
+            ]
+        }

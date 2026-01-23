@@ -1,0 +1,32 @@
+{
+            "trip_title": "Genç Ankara: Bahçeli ve Tunalı",
+            "clothing_advice": "Rahat ve günlük kıyafetler.",
+            "places": [
+                {
+                    "place_name": "Bahçelievler 7. Cadde",
+                    "category": "Shopping & Food",
+                    "features": ["Kafe", "Gençlik", "Alışveriş"],
+                    "rating": 4.4,
+                    "location": {
+                        "address": "Bahçelievler, Aşkabat Cd., 06490 Çankaya/Ankara",
+                        "coordinates": { "latitude": 39.9230, "longitude": 32.8250 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/ankara_plan4_1"
+                },
+                {
+                    "place_name": "Kıtır",
+                    "category": "Food & Drink",
+                    "features": ["Kokoreç", "Kumpir", "Klasik Mekan"],
+                    "rating": 4.5,
+                    "location": {
+                        "address": "Kavaklıdere, Tunalı Hilmi Cd. 114/K, 06680 Çankaya/Ankara",
+                        "coordinates": { "latitude": 39.9025, "longitude": 32.8610 }
+                    },
+                    "contact": { "phone": "+90 312 426 01 37", "email": null, "website": null },
+                    "hours": { "monday": "11:00 - 01:00" },
+                    "map_link": "https://goo.gl/maps/ankara_plan4_2"
+                }
+            ]
+        }

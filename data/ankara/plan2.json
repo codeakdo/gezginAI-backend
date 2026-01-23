@@ -1,0 +1,45 @@
+{
+            "trip_title": "Yeşil Ankara: Parklar ve Göller",
+            "clothing_advice": "Yürüyüş ayakkabısı şart. Göl kenarı serin olabilir.",
+            "places": [
+                {
+                    "place_name": "Eymir Gölü",
+                    "category": "Nature",
+                    "features": ["Bisiklet", "Doğa Yürüyüşü", "Huzur"],
+                    "rating": 4.8,
+                    "location": {
+                        "address": "Oran, ODTÜ Arazisi, 06450 Gölbaşı/Ankara",
+                        "coordinates": { "latitude": 39.8285, "longitude": 32.8055 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "06:00 - 22:00" },
+                    "map_link": "https://goo.gl/maps/ankara_plan2_1"
+                },
+                {
+                    "place_name": "Seğmenler Parkı",
+                    "category": "Relax",
+                    "features": ["Çimler", "Amfitiyatro", "Merkezi"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Çankaya, İran Cd., 06680 Çankaya/Ankara",
+                        "coordinates": { "latitude": 39.8965, "longitude": 32.8630 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/ankara_plan2_2"
+                },
+                {
+                    "place_name": "Kuğulu Park",
+                    "category": "Relax",
+                    "features": ["Kuğular", "Tunalı", "Sembolik"],
+                    "rating": 4.6,
+                    "location": {
+                        "address": "Kavaklıdere, Atatürk Blv., 06680 Çankaya/Ankara",
+                        "coordinates": { "latitude": 39.9045, "longitude": 32.8605 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/ankara_plan2_3"
+                }
+            ]
+        }

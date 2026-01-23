@@ -1,0 +1,32 @@
+{
+            "trip_title": "Adana'nın Doğal Yüzü: Kanyonlar",
+            "clothing_advice": "Trekking ayakkabısı ve sırt çantası.",
+            "places": [
+                {
+                    "place_name": "Varda Köprüsü",
+                    "category": "Sightseeing",
+                    "features": ["James Bond", "Tarihi", "Manzara"],
+                    "rating": 4.9,
+                    "location": {
+                        "address": "Kıralan, 01770 Karaisalı/Adana",
+                        "coordinates": { "latitude": 37.2435, "longitude": 34.9768 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "24 Saat Açık" },
+                    "map_link": "https://goo.gl/maps/adana_plan3_1"
+                },
+                {
+                    "place_name": "Kapıkaya Kanyonu",
+                    "category": "Nature",
+                    "features": ["Yürüyüş Parkuru", "Kanyon", "Doğa"],
+                    "rating": 4.7,
+                    "location": {
+                        "address": "Kapıkaya, 01770 Karaisalı/Adana",
+                        "coordinates": { "latitude": 37.2600, "longitude": 35.0100 }
+                    },
+                    "contact": { "phone": null, "email": null, "website": null },
+                    "hours": { "monday": "08:00 - 18:00" },
+                    "map_link": "https://goo.gl/maps/adana_plan3_2"
+                }
+            ]
+        }
