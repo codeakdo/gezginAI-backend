@@ -9,11 +9,14 @@ import requests
 from typing import List, Optional
 from dotenv import load_dotenv
 from pathlib import Path 
+from App.models import *
+from App.logger import logger
+
 
 # --- 1. AYARLAR VE GÜVENLİK (LOGLU BAŞLANGIÇ) ---
 # .env dosyasını yükle
 current_dir = Path(__file__).parent
-env_path = current_dir / ".env"
+env_path = current_dir.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
 # API Anahtarlarını Al
@@ -21,24 +24,24 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GOOGLE_SEARCH_CX = os.getenv("GOOGLE_SEARCH_CX")
 
 # --- AÇILIŞ EKRANI LOGLARI ---
-print("\n" + "="*40)
-print(f"🚀 GEZGİN AI BACKEND BAŞLATILIYOR...")
+logger.info("\n" + "="*40)
+logger.info(f"🚀 GEZGİN AI BACKEND BAŞLATILIYOR...")
 
 # API Key Kontrolü
 if GOOGLE_API_KEY:
     masked_key = f"{GOOGLE_API_KEY[:5]}...{GOOGLE_API_KEY[-4:]}"
-    print(f"🔑 API Key:   ✅ ({masked_key})")
+    logger.info(f"🔑 API Key:   ✅ ({masked_key})")
     genai.configure(api_key=GOOGLE_API_KEY)
 else:
-    print(f"🔑 API Key:   ❌ (YOK - .env dosyasını kontrol et!)")
+    logger.info(f"🔑 API Key:   ❌ (YOK - .env dosyasını kontrol et!)")
 
 # Search CX Kontrolü
 if GOOGLE_SEARCH_CX:
-    print(f"🔎 Search CX: ✅ (Mevcut)")
+    logger.info(f"🔎 Search CX: ✅ (Mevcut)")
 else:
-    print(f"🔎 Search CX: ❌ (YOK - Resimler gelmeyecek)")
+    logger.error(f"🔎 Search CX: ❌ (YOK - Resimler gelmeyecek)")
 
-print("="*40 + "\n")
+logger.info("="*40 + "\n")
 # -----------------------------
 
 # FastAPI Uygulamasını Kur
@@ -55,29 +58,7 @@ app.add_middleware(
 
 # --- 2. VERİ MODELLERİ ---
 
-class TravelRequest(BaseModel):
-    city: Optional[str] = None
-    latitude: Optional[float] = None
-    longitude: Optional[float] = None
-    days: int = 1
-    budget: str = "Medium"
-    interests: str = "General"
-
-class PlaceDetail(BaseModel):
-    place_name: str
-    category: str
-    description: str
-    rating: Optional[float] = None
-    image_url: Optional[str] = None 
-
-class DailyItinerary(BaseModel):
-    day: int
-    places: List[PlaceDetail]
-
-class TripResponse(BaseModel):
-    trip_title: str
-    clothing_advice: str
-    itinerary: List[DailyItinerary]
+#Bu kod models.py icinde yer aliyor.
 
 # --- 3. YARDIMCI FONKSİYONLAR (LOGLU RESİM ARAMA) ---
 
@@ -90,7 +71,7 @@ def find_place_image(place_name: str, context: str):
     query = f"{clean_name} {context} tourism"
     
     # LOG: Ne arıyoruz?
-    print(f"   🔍 Görsel Aranıyor: {query}...")
+    logger.info(f"   🔍 Görsel Aranıyor: {query}...")
     
     url = "https://www.googleapis.com/customsearch/v1"
     params = {
@@ -108,13 +89,13 @@ def find_place_image(place_name: str, context: str):
         if "items" in res:
             link = res["items"][0]["link"]
             # LOG: Bulundu
-            print(f"      ✅ Bulundu: {link[:40]}...") 
+            logger.info(f"      ✅ Bulundu: {link[:40]}...") 
             return link
         else:
             # LOG: Bulunamadı
-            print(f"      ❌ Sonuç yok.")
+            logger.warning(f"      ❌ Sonuç yok.")
     except Exception as e:
-        print(f"      ⚠️ Hata ({place_name}): {e}")
+        logger.error(f"      ⚠️ Hata ({place_name}): {e}")
         pass
     return None
 
@@ -126,7 +107,7 @@ def enrich_data_with_images(data: dict, search_context: str):
         for day in data['itinerary']:
             place_count += len(day.get('places', []))
             
-    print(f"\n🎨 Görsel Tarama Başlıyor ({place_count} mekan)...")
+    logger.info(f"\n🎨 Görsel Tarama Başlıyor ({place_count} mekan)...")
     
     if "itinerary" in data:
         for day in data['itinerary']:
@@ -153,7 +134,7 @@ def generate_trip_plan_ai(req: TravelRequest):
         search_context = "Istanbul"
         prompt_intro = "Create a travel itinerary for Istanbul."
 
-    print(f"⏳ AI Düşünüyor... ({location_context}, {req.days} Gün, {req.budget} Bütçe)")
+    logger.info(f"⏳ AI Düşünüyor... ({location_context}, {req.days} Gün, {req.budget} Bütçe)")
 
     prompt = f"""
     {prompt_intro}
@@ -207,7 +188,7 @@ def generate_trip_plan_ai(req: TravelRequest):
         return enrich_data_with_images(data, search_context)
         
     except Exception as e:
-        print(f"💥 AI Üretim Hatası: {e}")
+        logger.error(f"💥 AI Üretim Hatası: {e}")
         return {
             "trip_title": "Plan Oluşturulamadı",
             "clothing_advice": "Lütfen tekrar deneyin.",
@@ -218,11 +199,11 @@ def generate_trip_plan_ai(req: TravelRequest):
 
 @app.post("/create-plan", response_model=TripResponse)
 async def create_plan(request: TravelRequest):
-    print(f"\n📨 YENİ İSTEK: {request.city or 'GPS'} | {request.days} Gün | {request.budget}")
+    logger.info(f"\n📨 YENİ İSTEK: {request.city or 'GPS'} | {request.days} Gün | {request.budget}")
     
     try:
         result = generate_trip_plan_ai(request)
         return result
     except Exception as e:
-        print(f"Server Hatası: {e}")
+        logger.error(f"Server Hatası: {e}")
         raise HTTPException(status_code=500, detail=str(e))
