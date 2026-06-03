@@ -6,3 +6,4 @@ requests
 pydantic
 pytest
 httpx
+python-multipart

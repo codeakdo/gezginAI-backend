@@ -45,3 +45,386 @@
 2026-02-06 22:01:33,247 - INFO- 
 ========================================
 
+2026-03-24 12:32:22,883 - INFO- 
+========================================
+2026-03-24 12:32:22,883 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-24 12:32:22,883 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-24 12:32:22,883 - INFO- 
+========================================
+
+2026-03-24 12:32:52,924 - INFO- 
+📨 YENİ İSTEK: Barselona | 3 Gün
+2026-03-24 12:32:53,861 - INFO- Plan uretiliyor: Barselona | 3 gun | Low butce | Tarih ve kültür, yerel lezzetler, manzara, Müzeler, Gece hayatı, Manzara ve fotoğraf
+2026-03-24 13:24:31,745 - INFO- Plan uretiliyor: Barcelona | 3 gun | Medium butce | Tarih ve kültür, yerel lezzetler, manzara
+2026-03-24 13:30:40,827 - INFO- 
+========================================
+2026-03-24 13:30:40,827 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-24 13:30:40,827 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-24 13:30:40,827 - INFO- 
+========================================
+
+2026-03-24 13:31:11,136 - INFO- 
+📨 YENİ İSTEK: stuttgart | 3 Gün
+2026-03-24 13:31:12,331 - INFO- Plan uretiliyor: Stuttgart | 3 gun | High butce | Tarih ve kültür, yerel lezzetler, manzara, Müzeler, Doğa yürüyüşü
+2026-03-24 13:31:22,617 - WARNING- OSM veri havuzu alinamadi: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:33:35,186 - INFO- 
+📨 YENİ İSTEK: Barselona | 3 Gün
+2026-03-24 13:33:36,051 - INFO- Plan uretiliyor: Barselona | 3 gun | High butce | Tarih ve kültür, yerel lezzetler, manzara, Müzeler, Doğa yürüyüşü
+2026-03-24 13:35:00,586 - INFO- 
+📨 YENİ İSTEK: Barcelona | 3 Gün
+2026-03-24 13:35:01,356 - INFO- Plan uretiliyor: Barcelona | 3 gun | High butce | Tarih ve kültür, yerel lezzetler, manzara, Müzeler, Doğa yürüyüşü
+2026-03-24 13:51:04,432 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | walking
+2026-03-24 13:51:11,670 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:51:15,696 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:52:57,856 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | walking
+2026-03-24 13:53:13,038 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | cycling
+2026-03-24 13:53:17,365 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:53:22,398 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:53:35,152 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | driving
+2026-03-24 13:54:25,902 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | walking
+2026-03-24 13:54:42,659 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | cycling
+2026-03-24 13:54:50,383 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:55:07,904 - INFO- Generating plan: Barcelona | 1 days | Medium budget | History, local food, views | driving
+2026-03-24 13:57:53,887 - INFO- 
+========================================
+2026-03-24 13:57:53,888 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-24 13:57:53,888 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-24 13:57:53,888 - INFO- 
+========================================
+
+2026-03-24 13:58:22,271 - INFO- 
+📨 YENİ İSTEK: barcelona | 3 Gün
+2026-03-24 13:58:23,313 - INFO- Generating plan: Barcelona | 3 days | Medium budget | History & culture, local food, views, museums, Nightlife | walking
+2026-03-24 13:58:28,571 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 13:58:33,863 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 14:08:51,725 - INFO- 
+========================================
+2026-03-24 14:08:51,725 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-24 14:08:51,725 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-24 14:08:51,725 - INFO- 
+========================================
+
+2026-03-24 14:09:01,071 - INFO- 
+📨 YENİ İSTEK: barcelona | 3 Gün
+2026-03-24 14:09:05,420 - INFO- Generating plan: Barcelona | 3 days | Medium budget | History & culture, local food, views, museums | walking
+2026-03-24 14:12:52,208 - INFO- 
+📨 YENİ İSTEK: barcelona | 3 Gün
+2026-03-24 14:12:53,003 - INFO- Generating plan: Barcelona | 3 days | Medium budget | History & culture, local food, views, museums | walking
+2026-03-24 14:54:41,232 - INFO- Generating plan: Barcelona | 3 days | Medium budget | History & culture, local food, views | walking
+2026-03-24 14:55:12,729 - INFO- Generating plan: Barcelona | 3 days | Medium budget | Barcelona FC Museum, local food, views | walking
+2026-03-24 14:57:51,495 - INFO- Generating plan: Barcelona | 3 days | Medium budget | History & culture, local food, views | walking
+2026-03-24 14:57:59,608 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 14:58:05,357 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-24 14:58:41,148 - INFO- Generating plan: Barcelona | 3 days | Medium budget | Barcelona FC Museum, local food, views | walking
+2026-03-24 23:58:50,183 - INFO- 
+========================================
+2026-03-24 23:58:50,183 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-24 23:58:50,183 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-24 23:58:50,183 - INFO- 
+========================================
+
+2026-03-24 23:59:38,125 - INFO- 
+📨 YENİ İSTEK: köln Germany | 3 Gün
+2026-03-24 23:59:39,302 - INFO- Generating plan: köln Germany | 3 days | Medium budget | local food, views, museums, Views & photography, Nature walks, History & culture | walking
+2026-03-25 00:00:29,516 - INFO- 
+📨 YENİ İSTEK: köln | 3 Gün
+2026-03-25 00:00:30,784 - INFO- Generating plan: Cologne | 3 days | Medium budget | local food, views, museums, Views & photography, Nature walks, History & culture | walking
+2026-03-25 00:00:36,420 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 00:00:44,550 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 00:05:41,284 - INFO- Generating plan: Cologne | 3 days | Medium budget | History & culture, local food, nature walks | walking
+2026-03-25 00:05:46,508 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 00:05:52,495 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 00:12:01,061 - INFO- Generating plan: Cologne | 3 days | Medium budget | History & culture, local food, nature walks | walking
+2026-03-25 01:15:07,355 - INFO- 
+========================================
+2026-03-25 01:15:07,356 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-25 01:15:07,356 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-25 01:15:07,356 - INFO- 
+========================================
+
+2026-03-25 01:15:41,426 - INFO- 
+📨 YENİ İSTEK: köln | 3 Gün
+2026-03-25 01:15:43,893 - INFO- Generating plan: Cologne | 3 days | Medium budget | History & culture, views, Views & photography, Nature walks | walking
+2026-03-25 12:14:16,175 - INFO- 
+========================================
+2026-03-25 12:14:16,175 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-25 12:14:16,175 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-25 12:14:16,175 - INFO- 
+========================================
+
+2026-03-25 12:14:33,205 - INFO- 
+📨 YENİ İSTEK: kiln | 3 Gün
+2026-03-25 12:14:35,280 - INFO- Generating plan: Kiln | 3 days | Medium budget | History & culture, local food, views, museums,beer | walking
+2026-03-25 12:14:53,507 - INFO- 
+📨 YENİ İSTEK: köln | 3 Gün
+2026-03-25 12:14:54,452 - INFO- Generating plan: Cologne | 3 days | Medium budget | History & culture, local food, views, beer, Museums | walking
+2026-03-25 12:49:38,530 - INFO- 
+========================================
+2026-03-25 12:49:38,531 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-03-25 12:49:38,531 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-03-25 12:49:38,531 - INFO- 
+========================================
+
+2026-03-25 12:50:13,077 - INFO- 
+📨 YENİ İSTEK: köln | 3 Gün
+2026-03-25 12:50:15,402 - INFO- Generating plan: Cologne | 3 days | Medium budget | History & culture, views, museums, beer, Local food | walking
+2026-03-25 12:53:04,091 - INFO- 
+📨 YENİ İSTEK: Istanbul | 2 Gün
+2026-03-25 12:53:05,000 - INFO- Generating plan: Istanbul | 2 days | Low budget | General | walking
+2026-03-25 12:56:44,696 - INFO- 
+📨 YENİ İSTEK: GPS | 1 Gün
+2026-03-25 12:56:45,292 - INFO- Generating plan: Selected Location | 1 days | Medium budget | General | walking
+2026-03-25 12:57:03,574 - INFO- 
+📨 YENİ İSTEK: GPS | 1 Gün
+2026-03-25 12:57:04,005 - INFO- Generating plan: Selected Location | 1 days | Medium budget | General | walking
+2026-03-25 12:57:09,636 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 12:57:14,532 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:23:11,665 - INFO- 
+📨 YENİ İSTEK: nyc | 3 Gün
+2026-03-25 13:23:12,410 - INFO- Generating plan: New York | 3 days | Medium budget | History & culture, local food, views, museums | walking
+2026-03-25 13:23:17,600 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:23:25,555 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:24:38,535 - INFO- 
+📨 YENİ İSTEK: GPS | 1 Gün
+2026-03-25 13:24:38,941 - INFO- Generating plan: Selected Location | 1 days | Medium budget | General | walking
+2026-03-25 13:25:16,975 - INFO- 
+📨 YENİ İSTEK: Ankara | 4 Gün
+2026-03-25 13:25:17,872 - INFO- Generating plan: Ankara | 4 days | High budget | General | walking
+2026-03-25 13:25:29,708 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:25:33,367 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:26:10,144 - INFO- 
+📨 YENİ İSTEK: NYC | 4 Gün
+2026-03-25 13:26:10,838 - INFO- Generating plan: New York | 4 days | High budget | General | walking
+2026-03-25 13:26:20,553 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:26:28,317 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:28:08,495 - INFO- 
+📨 YENİ İSTEK: GPS | 1 Gün
+2026-03-25 13:28:09,200 - INFO- Generating plan: Selected Location | 1 days | Medium budget | General | walking
+2026-03-25 13:30:11,261 - INFO- 
+📨 YENİ İSTEK: NYC | 4 Gün
+2026-03-25 13:30:15,308 - INFO- Generating plan: New York | 4 days | High budget | General | walking
+2026-03-25 13:30:19,697 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-03-25 13:32:36,759 - INFO- 
+📨 YENİ İSTEK: NYC | 4 Gün
+2026-03-25 13:32:37,808 - INFO- Generating plan: New York | 4 days | High budget | General | walking
+2026-04-22 21:40:23,760 - INFO- 
+========================================
+2026-04-22 21:40:23,760 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-04-22 21:40:23,760 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-04-22 21:40:23,761 - INFO- 
+========================================
+
+2026-04-22 21:42:34,357 - INFO- 
+📨 YENİ İSTEK: GPS | 1 Gün
+2026-04-22 21:42:35,263 - INFO- Generating plan: Selected Location | 1 days | Medium budget | General | walking
+2026-04-22 21:43:19,196 - INFO- 
+📨 YENİ İSTEK: Barcelona | 3 Gün
+2026-04-22 21:43:20,151 - INFO- Generating plan: Barcelona | 3 days | High budget | General | walking
+2026-06-03 21:35:59,558 - INFO- 
+========================================
+2026-06-03 21:35:59,558 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 21:35:59,558 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 21:35:59,558 - INFO- 
+========================================
+
+2026-06-03 21:39:45,925 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-03 21:39:50,599 - INFO- Generating plan: Roma | 2 days | Medium budget | 🏛️ Tarihi Yerler, 🍜 Lezzet Turu, 🎨 Sanat & Müze, 🌙 Gece Hayatı, 🏛️ Tarihi Yerler, 🏛️ Tarihi Yerler, friends group | walking
+2026-06-03 21:41:25,861 - INFO- 
+📨 YENİ İSTEK: istanbul | 2 Gün
+2026-06-03 21:41:36,888 - INFO- Generating plan: Istanbul | 2 days | Medium budget | 🏛️ Tarihi Yerler, 🍜 Lezzet Turu, 🎨 Sanat & Müze, 🌙 Gece Hayatı, 🏛️ Tarihi Yerler, 🏛️ Tarihi Yerler, friends group | walking
+2026-06-03 21:42:58,377 - WARNING- Wikipedia lookup failed (Ege Rum Meyhanesi): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Ege+Rum+Meyhanesi+Istanbul&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 21:44:47,248 - INFO- 
+📨 YENİ İSTEK: istanbul  | 2 Gün
+2026-06-03 21:44:53,315 - INFO- Generating plan: Istanbul | 2 days | Medium budget | 🏛️ Tarihi Yerler, 🌊 Deniz Kenarı, 📸 Fotoğrafçılık, friends group | walking
+2026-06-03 21:46:10,820 - WARNING- Wikipedia lookup failed (Pidem): HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=30)
+2026-06-03 21:46:38,681 - WARNING- Wikipedia lookup failed (Silivrikapı): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Silivrikap%C4%B1+Istanbul&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 21:46:39,185 - WARNING- Wikipedia lookup failed (Belgrad Kapı): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Belgrad+Kap%C4%B1+Istanbul&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 22:30:38,747 - INFO- 
+========================================
+2026-06-03 22:30:38,747 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 22:30:38,747 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 22:30:38,747 - INFO- 
+========================================
+
+2026-06-03 22:31:15,211 - INFO- 
+📨 YENİ İSTEK: roma | 3 Gün
+2026-06-03 22:31:17,729 - INFO- Generating plan: Roma | 3 days | Medium budget | 🏛️ Tarihi Yerler, 🍜 Lezzet Turu, 🎨 Sanat & Müze, 🛍️ Alışveriş, friends group | walking
+2026-06-03 22:31:45,390 - WARNING- Wikipedia lookup failed (Bar la Fabricianu): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Bar+la+Fabricianu+Roma&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 22:48:04,286 - INFO- 
+========================================
+2026-06-03 22:48:04,286 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 22:48:04,286 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 22:48:04,286 - INFO- 
+========================================
+
+2026-06-03 22:53:01,920 - INFO- 
+========================================
+2026-06-03 22:53:01,920 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 22:53:01,920 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 22:53:01,920 - INFO- 
+========================================
+
+2026-06-03 22:53:36,020 - INFO- 
+📨 YENİ İSTEK: izmir | 3 Gün
+2026-06-03 22:53:37,241 - INFO- Generating plan: Izmir | 3 days | Medium budget | 🏛 Tarihi Yerler, 🌙 Gece Hayatı, 📸 Fotoğrafçılık, friends group | walking
+2026-06-03 22:57:05,755 - INFO- 
+📨 YENİ İSTEK: düsseldorf | 2 Gün
+2026-06-03 22:57:10,263 - INFO- Generating plan: Düsseldorf | 2 days | Medium budget | 🏛 Tarihi Yerler, 📸 Fotoğrafçılık, 🌳 Doğa & Park, 🍜 Lezzet Turu, friends group | walking
+2026-06-03 22:57:53,656 - WARNING- Wikipedia lookup failed (Königsberg): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=K%C3%B6nigsberg+D%C3%BCsseldorf&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 22:57:55,404 - WARNING- Wikipedia lookup failed (Dorado): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Dorado+D%C3%BCsseldorf&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 22:59:04,828 - INFO- 
+📸 LENS İSTEĞİ: IMG_4903.jpeg
+2026-06-03 22:59:04,830 - ERROR- Lens Hatası: GOOGLE_API_KEY is not configured
+2026-06-03 23:13:32,615 - INFO- 
+========================================
+2026-06-03 23:13:32,615 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:13:32,615 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:13:32,615 - INFO- 
+========================================
+
+2026-06-03 23:13:33,684 - INFO- 
+========================================
+2026-06-03 23:13:33,684 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:13:33,684 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:13:33,684 - INFO- 
+========================================
+
+2026-06-03 23:25:46,048 - INFO- 
+========================================
+2026-06-03 23:25:46,049 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:25:46,049 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:25:46,049 - INFO- 
+========================================
+
+2026-06-03 23:26:00,062 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-03 23:26:01,698 - INFO- Generating plan: Roma | 2 days | Medium budget | 🏛 Tarihi Yerler, 🌙 Gece Hayatı, 📸 Fotoğrafçılık, friends group | walking
+2026-06-03 23:26:25,242 - WARNING- Wikipedia lookup failed (Casa memorială Mihai Eminescu): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Casa+memorial%C4%83+Mihai+Eminescu+Roma&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 23:26:36,572 - INFO- 
+========================================
+2026-06-03 23:26:36,572 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:26:36,572 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:26:36,572 - INFO- 
+========================================
+
+2026-06-03 23:26:52,769 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-03 23:26:53,506 - INFO- Generating plan: Roma | 2 days | Medium budget | 🏛 Tarihi Yerler, 🌙 Gece Hayatı, friends group | walking
+2026-06-03 23:30:18,934 - INFO- 
+📸 LENS İSTEĞİ: IMG_4903.jpeg
+2026-06-03 23:30:18,936 - ERROR- Lens Hatası: GOOGLE_API_KEY is not configured
+2026-06-03 23:30:26,430 - INFO- 
+📸 LENS İSTEĞİ: IMG_4903.jpeg
+2026-06-03 23:30:26,432 - ERROR- Lens Hatası: GOOGLE_API_KEY is not configured
+2026-06-03 23:39:39,407 - INFO- 
+========================================
+2026-06-03 23:39:39,408 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:39:39,408 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:39:39,408 - INFO- 
+========================================
+
+2026-06-03 23:47:47,487 - INFO- 
+========================================
+2026-06-03 23:47:47,487 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:47:47,487 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:47:47,487 - INFO- 
+========================================
+
+2026-06-03 23:49:17,565 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-03 23:49:18,722 - INFO- Generating plan: Roma | 2 days | Medium budget | 🍜 Lezzet Turu, 🌳 Doğa & Park, romantic couple | walking
+2026-06-03 23:49:29,221 - WARNING- OSM place pool failed: 504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+2026-06-03 23:49:54,122 - WARNING- Wikipedia lookup failed (Casa memorială Mihai Eminescu): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Casa+memorial%C4%83+Mihai+Eminescu+Roma&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-03 23:50:41,871 - INFO- 
+📸 LENS İSTEĞİ: IMG_4903.jpeg
+2026-06-03 23:50:41,873 - ERROR- Lens Hatası: GOOGLE_API_KEY is not configured
+2026-06-03 23:54:03,001 - INFO- 
+========================================
+2026-06-03 23:54:03,001 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:54:03,001 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:54:03,001 - INFO- 
+========================================
+
+2026-06-03 23:54:10,995 - INFO- 
+========================================
+2026-06-03 23:54:10,996 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:54:10,996 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:54:10,996 - INFO- 
+========================================
+
+2026-06-03 23:55:31,254 - INFO- 
+📸 LENS İSTEĞİ: test_lens.jpg
+2026-06-03 23:55:31,255 - ERROR- Lens Hatası: GOOGLE_API_KEY is not configured
+2026-06-03 23:57:20,065 - INFO- 
+========================================
+2026-06-03 23:57:20,065 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:57:20,065 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:57:20,065 - INFO- ========================================
+
+2026-06-03 23:57:25,762 - INFO- 
+========================================
+2026-06-03 23:57:25,762 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:57:25,762 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:57:25,762 - INFO- ========================================
+
+2026-06-03 23:57:33,487 - INFO- 
+========================================
+2026-06-03 23:57:33,487 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-03 23:57:33,487 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-03 23:57:33,487 - INFO- ========================================
+
+2026-06-04 00:00:25,375 - INFO- 
+📸 LENS İSTEĞİ: test_lens.jpg (image/jpeg)
+2026-06-04 00:00:25,375 - INFO- Lens: image/jpeg, 335 bytes
+2026-06-04 00:00:33,353 - INFO- Lens AI response: {
+  "ad": "Tanımlanamayan Yer",
+  "aciklama": "Sağlanan görselde herhangi bir yer veya simge tespit edilememiştir. Lütfen geçerli bir görsel yükleyiniz.",
+  "puan": 0.0,
+  "kategori": "Hata",
+  "fiyat_seviyesi": "N/A",
+  "tahmini_sure": "0 saat",
+  "resim_arama_kelimesi": "blank image",
+  "koordinat": {
+    "lat": 0.0,
+    "lng": 0.0
+  }
+}
+2026-06-04 00:01:43,021 - INFO- 
+========================================
+2026-06-04 00:01:43,021 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-04 00:01:43,021 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-04 00:01:43,021 - INFO- ========================================
+
+2026-06-04 00:01:58,036 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-04 00:01:58,977 - INFO- Generating plan: Roma | 2 days | Medium budget | 🏛 Tarihi Yerler, 📸 Fotoğrafçılık, 🛍 Alışveriş, friends group | walking
+2026-06-04 00:02:26,306 - WARNING- Skipping 'Colosseo' — geocoded 1291 km from Roma
+2026-06-04 00:02:29,658 - WARNING- Skipping 'Trattoria Luzzi' — geocoded 1290 km from Roma
+2026-06-04 00:02:31,419 - WARNING- Skipping 'Pantheon' — geocoded 1291 km from Roma
+2026-06-04 00:02:32,814 - WARNING- Skipping 'Fontana di Trevi' — geocoded 1290 km from Roma
+2026-06-04 00:02:35,487 - WARNING- Skipping 'Castel Sant'Angelo' — geocoded 1291 km from Roma
+2026-06-04 00:02:38,149 - WARNING- Skipping 'Forno Campo de' Fiori' — geocoded 1292 km from Roma
+2026-06-04 00:03:22,188 - INFO- 
+📨 YENİ İSTEK: roma | 2 Gün
+2026-06-04 00:03:23,684 - INFO- Generating plan: Roma | 2 days | Medium budget | 🏛 Tarihi Yerler, 📸 Fotoğrafçılık, 🛍 Alışveriş, friends group | walking
+2026-06-04 00:04:02,688 - WARNING- Skipping 'Colosseo' — geocoded 1291 km from Roma
+2026-06-04 00:04:05,447 - WARNING- Skipping 'Monumento a Vittorio Emanuele II' — geocoded 1290 km from Roma
+2026-06-04 00:04:07,138 - WARNING- Skipping 'Ristorante Armando al Pantheon' — geocoded 1291 km from Roma
+2026-06-04 00:04:07,729 - WARNING- Skipping 'Pantheon' — geocoded 1291 km from Roma
+2026-06-04 00:04:09,289 - WARNING- Skipping 'Fontana di Trevi' — geocoded 1290 km from Roma
+2026-06-04 00:04:14,537 - WARNING- Skipping 'Via dei Condotti' — geocoded 1290 km from Roma
+2026-06-04 00:04:16,103 - WARNING- Skipping 'Piazza Navona' — geocoded 1291 km from Roma
+2026-06-04 00:04:16,599 - WARNING- Skipping 'Da Francesco' — geocoded 1222 km from Roma
+2026-06-04 00:04:54,147 - INFO- 
+📨 YENİ İSTEK: paris | 2 Gün
+2026-06-04 00:04:55,482 - INFO- Generating plan: Paris | 2 days | Medium budget | 🏛 Tarihi Yerler, 📸 Fotoğrafçılık, 🛍 Alışveriş, friends group | walking
+2026-06-04 00:05:50,330 - WARNING- Wikipedia lookup failed (Musée d'Orsay): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Mus%C3%A9e+d%27Orsay+Paris&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:05:50,694 - WARNING- Wikipedia lookup failed (Les Cocottes Tour Eiffel): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Les+Cocottes+Tour+Eiffel+Paris&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:06:33,373 - INFO- 
+📸 LENS İSTEĞİ: IMG_4903.jpeg (image/jpeg)
+2026-06-04 00:06:33,381 - INFO- Lens: image/jpeg, 3605748 bytes
+2026-06-04 00:06:45,463 - INFO- Lens AI response: {
+  "ad": "Beurs van Berlage",
+  "aciklama": "Amsterdam'da bulunan Beurs van Berlage, ünlü mimar Hendrik Petrus Berlage tarafından tasarlanmış, Hollanda'nın en önemli Ulusal Miras Alanlarından biridir. Başlangıçta borsa binası olarak kullanılan bu yapı, günümüzde konser, konferans ve sergilere ev sahipliği yapmaktadır. Hollanda mimarisinin modernleşme sürecini simgeleyen önemli bir yapıdır.",
+  "p
