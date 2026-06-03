@@ -428,3 +428,40 @@
   "ad": "Beurs van Berlage",
   "aciklama": "Amsterdam'da bulunan Beurs van Berlage, ünlü mimar Hendrik Petrus Berlage tarafından tasarlanmış, Hollanda'nın en önemli Ulusal Miras Alanlarından biridir. Başlangıçta borsa binası olarak kullanılan bu yapı, günümüzde konser, konferans ve sergilere ev sahipliği yapmaktadır. Hollanda mimarisinin modernleşme sürecini simgeleyen önemli bir yapıdır.",
   "p
+2026-06-04 00:29:32,574 - INFO- 
+========================================
+2026-06-04 00:29:32,574 - INFO- 🚀 GEZGİN AI BACKEND BAŞLATILIYOR...
+2026-06-04 00:29:32,574 - INFO- 🔑 API Key:   ✅ (Mevcut)
+2026-06-04 00:29:32,574 - INFO- ========================================
+
+2026-06-04 00:30:12,410 - INFO- 
+📨 YENİ İSTEK: Amsterdam | 3 Gün
+2026-06-04 00:30:17,475 - INFO- Generating plan: Amsterdam | 3 days | Medium budget | 🏛 Tarihi Yerler, 🍜 Lezzet Turu, 🎨 Sanat & Müze, 📸 Fotoğrafçılık, romantic couple | walking
+2026-06-04 00:31:21,662 - WARNING- Wikipedia lookup failed (The Pantry): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=The+Pantry+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:31:22,075 - WARNING- Wikipedia lookup failed (Bloemenmarkt): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Bloemenmarkt+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:31:22,429 - WARNING- Wikipedia lookup failed (Mannekenpis): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Mannekenpis+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:31:22,922 - WARNING- Wikipedia lookup failed (Vondelpark): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Vondelpark+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:31:23,288 - WARNING- Wikipedia lookup failed (The Pantry): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=The+Pantry+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:31:23,647 - WARNING- Wikipedia lookup failed (Dam Square): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Dam+Square+Amsterdam&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json
+2026-06-04 00:32:11,726 - INFO- 
+📸 LENS İSTEĞİ: IMG_4693.jpeg (image/jpeg)
+2026-06-04 00:32:11,740 - INFO- Lens: image/jpeg, 2800800 bytes
+2026-06-04 00:32:20,729 - INFO- Lens AI response: {
+  "ad": "Kölner Dom",
+  "aciklama": "Kölner Dom, Almanya'nın Köln şehrinde bulunan, UNESCO Dünya Mirası listesindeki muhteşem bir Gotik katedraldir. 1248'de temelleri atılan ve 600 yılı aşkın sürede tamamlanan bu yapı, mimari ihtişamıyla ve içindeki Üç Müneccim Kral'ın kutsal emanetleriyle büyük önem taşır. Ziyaretçiler, Gotik sanatının bu başyapıtını ve etkileyici vitray pencerelerini yakından 
+2026-06-04 00:32:45,842 - INFO- 
+📸 LENS İSTEĞİ: IMG_4704.jpeg (image/jpeg)
+2026-06-04 00:32:45,851 - INFO- Lens: image/jpeg, 4444415 bytes
+2026-06-04 00:32:57,595 - INFO- Lens AI response: {
+  "ad": "Kölner Dom",
+  "aciklama": "Kölner Dom, Almanya'nın Köln şehrinde bulunan ve Gotik mimarinin en etkileyici örneklerinden biridir. 1248 yılında inşasına başlanmış ancak tamamlanması 600 yıldan fazla sürmüştür. Dünya Mirası Alanı olan bu katedral, içinde Kutsal Üç Kral'ın röliklerini barındırmasıyla Hristiyanlık için büyük bir dini öneme sahiptir.",
+  "puan": 4.8,
+  "kategori": "Kilise",
+
+2026-06-04 00:33:38,153 - INFO- 
+📨 YENİ İSTEK: New York | 1 Gün
+2026-06-04 00:33:39,210 - INFO- Generating plan: New York | 1 days | High budget | 🛍 Alışveriş, 🌳 Doğa & Park, 🌊 Deniz Kenarı, friends group | walking
+2026-06-04 00:35:08,914 - INFO- 
+📨 YENİ İSTEK: Santorini | 2 Gün
+2026-06-04 00:35:14,943 - INFO- Generating plan: Santorini | 2 days | High budget | 🍜 Lezzet Turu, 🌳 Doğa & Park, 🌊 Deniz Kenarı, 📸 Fotoğrafçılık, romantic couple | walking
+2026-06-04 00:36:41,926 - WARNING- Wikipedia lookup failed (Perissa Plajı): 429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=Perissa+Plaj%C4%B1+Santorini&gsrlimit=1&prop=pageimages%7Cextracts%7Cinfo&piprop=thumbnail&pithumbsize=1200&inprop=url&exintro=True&explaintext=True&format=json

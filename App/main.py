@@ -60,14 +60,27 @@ async def create_plan(request: TravelRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+_ALLOWED_IMAGE_TYPES = {"image/jpeg", "image/png", "image/webp", "image/heic", "image/heif"}
+_MAX_IMAGE_BYTES = 10 * 1024 * 1024  # 10 MB
+
 @app.post("/identify-place", response_model=PlaceIdentificationResponse)
 async def identify_place(image: UploadFile = File(...)):
     logger.info(f"\n📸 LENS İSTEĞİ: {image.filename} ({image.content_type})")
     try:
+        mime_type = (image.content_type or "image/jpeg").lower().split(";")[0].strip()
+        if mime_type not in _ALLOWED_IMAGE_TYPES:
+            raise HTTPException(status_code=400, detail=f"Desteklenmeyen dosya türü: {mime_type}. JPEG, PNG veya WebP yükleyin.")
+
         image_bytes = await image.read()
-        mime_type = image.content_type or "image/jpeg"
+        if len(image_bytes) > _MAX_IMAGE_BYTES:
+            raise HTTPException(status_code=400, detail="Dosya boyutu çok büyük (maksimum 10 MB).")
+        if len(image_bytes) < 100:
+            raise HTTPException(status_code=400, detail="Geçersiz görsel dosyası.")
+
         result = identify_place_from_image(image_bytes, mime_type)
         return result
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"Lens Hatası: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail="Görsel analiz edilemedi. Lütfen tekrar deneyin.")
